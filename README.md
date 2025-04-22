@@ -1,7 +1,5 @@
 # ĐỒ ÁN 1
 
----
-
 ## 1. Giới thiệu dự án
 
 ### 1.1 Thành viên tham gia
