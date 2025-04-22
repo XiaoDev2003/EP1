@@ -1,3 +1,5 @@
+Mỗi khi thêm một thư mục mới hoặc file nào đó cần bổ sung vào cấu trúc và giới thiệu ngắn về nó
+
 **EP1**
 
 * BACKEND
